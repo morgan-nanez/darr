@@ -9,3 +9,7 @@ https://github.com/hale2bopp/Audio-Source-Localization
 
 ### Lowpass Filter 
 https://docs.google.com/document/d/1iXLu9cTFmTGFP5qXhfP2bFfXgri0i9IRCH4ccLrAWN8/edit
+
+### SciPy
+http://scipy.github.io/old-wiki/pages/Cookbook/ButterworthBandpass
+https://docs.scipy.org/doc/scipy/reference/signal.html
