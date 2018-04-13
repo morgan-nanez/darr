@@ -22,3 +22,18 @@ https://github.com/AllenDowney/ThinkDSP/tree/master
 2. How to get output of physical circuit for Raspberry Pi input
 3. Filtering Input on Raspberry Pi
 4. Next Steps?
+
+
+
+# Arduino Resources
+### Plan
+1a. Use Audio Analyzer to probe at 7 different points
+1b. Or, use low pass filter and DP to filter our signal
+2. How to analyze our data points into something "readable"
+3. Taking Samples
+4. Moving car
+
+### Audio Analyzer Spec
+https://www.dfrobot.com/wiki/index.php/Audio_Analyzer_v2_SKU:DFR0126
+
+### 
