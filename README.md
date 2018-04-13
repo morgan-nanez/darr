@@ -26,7 +26,7 @@ https://github.com/AllenDowney/ThinkDSP/tree/master
 
 
 # Arduino Resources
-### Plan
+### Plan 
 1a. Use Audio Analyzer to probe at 7 different points
 1b. Or, use low pass filter and DP to filter our signal
 2. How to analyze our data points into something "readable"
