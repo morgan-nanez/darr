@@ -36,4 +36,5 @@ https://github.com/AllenDowney/ThinkDSP/tree/master
 ### Audio Analyzer Spec
 https://www.dfrobot.com/wiki/index.php/Audio_Analyzer_v2_SKU:DFR0126
 
-### 
+### Controlling robot using Xbox One controller
+https://www.hackster.io/svelde/control-arduino-rover-using-firmata-and-xbox-one-controller-70c51a
